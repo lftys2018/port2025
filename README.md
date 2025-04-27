@@ -39,9 +39,8 @@ If you are developing a production application, we recommend using TypeScript wi
 - HTML, CSS 기반으로 웹사이트의 기본 레이아웃 설계하고, 웹 표준 및 웹 접근성을 준수하여 작업합니다. [ARIA(Accessible Rich Internet Applications)](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles)
 
 ## 프로젝트 실행
-- react를 설치합니다. `npx create-react-app 타이틀`
+- react를 설치합니다. `npx create vite@latest port2025 react javascript`
 - react-router-dom을 설치합니다. `npm install react-router-dom`
 - sass를 설치합니다. `npm install sass`
 - gsap를 설치합니다. `npm install gsap`
 - lenis를 설치합니다. `npm install @studio-freight/lenis`
-출처: https://webstoryboy.co.kr/1934 [WEBSTORYBOY:티스토리]
